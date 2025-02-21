@@ -1,1 +1,2 @@
 Hello World of Git via VS Code Editor!
+This is the first change after the initial push to GitHub
